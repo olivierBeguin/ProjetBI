@@ -12,13 +12,13 @@
     </DataSources>
     <Dimensions>
       <Dimension>
-        <ID>Date</ID>
-      </Dimension>
-      <Dimension>
         <ID>Proprietaire</ID>
       </Dimension>
       <Dimension>
         <ID>Vehicule</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Date</ID>
       </Dimension>
     </Dimensions>
     <Cubes>

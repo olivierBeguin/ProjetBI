@@ -7,17 +7,17 @@
           <ConfigurationSetting>
             <Id>1617 Etu28579 DB</Id>
             <Name>1617 Etu28579 DB</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcb3zXXr20ky90dVOvbNz8QAAAAAiAAAAMQA2ADEANwAgAEUAdAB1ADIAOAA1ADcAOQAgAEQAQgAAAANmAADAAAAAEAAAACjHH5vm8lLl/GeZPd4oinkAAAAABIAAAKAAAAAQAAAAc9A2Zbfpm8ocUTn20t3TsCAAAAA0w7nX4k2oT+4FE9j83SI+pyv0CLlz3Orp2ql9Vo4/aBQAAACVmLheej7yrbPy0aSMsx+5hwGDtg==</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADryyPpdQE0SCCnH884i7NQAAAAAiAAAAMQA2ADEANwAgAEUAdAB1ADIAOAA1ADcAOQAgAEQAQgAAABBmAAAAAQAAIAAAAC0H7CwDia20jgKVT7JHAol3ae2thmkY4bBuL2NBFSxgAAAAAA6AAAAAAgAAIAAAAGpq1c4xEfUfernt17zCDXQD/pZGv5sAQ7uvjICHQowyIAAAAIQ51CuCu19UepFzwcY/qeaoQKbdhxmiwY1Krr5vIqwfQAAAAFiq8f8Gc+h/kRWJ3K3q5qG5hNyEbhqpxkuVmhSF//ueU/4nNljFiJP1oE7BjzhfwSUI/+NHeQOSCAyBl8nJZvY=</Value>
           </ConfigurationSetting>
         </UserIDs>
         <UserPasswords>
           <ConfigurationSetting>
             <Id>1617 Etu28579 DB</Id>
             <Name>1617 Etu28579 DB</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcb3zXXr20ky90dVOvbNz8QAAAAAiAAAAMQA2ADEANwAgAEUAdAB1ADIAOAA1ADcAOQAgAEQAQgAAAANmAADAAAAAEAAAAAPWvP+deVU8haGTk0UAyzMAAAAABIAAAKAAAAAQAAAA8gLT+TeJXZXJ5mpZaK1qrxgAAAAl3JpQF0fX4M7mqBqjlcgkXyQZeOptgesUAAAAyBSTfxxq+gpMHXBmK6bed0KCtsU=</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADryyPpdQE0SCCnH884i7NQAAAAAiAAAAMQA2ADEANwAgAEUAdAB1ADIAOAA1ADcAOQAgAEQAQgAAABBmAAAAAQAAIAAAAJYBa+RWB6gOMXfrMUID6wareLd3Ca+DBDvqC3jph5JnAAAAAA6AAAAAAgAAIAAAAL90Gu7ytW9Z7yRBHtpmm3+ndkpqm1XxPdYmybU8zJ6CIAAAAORwjxZX1zuM/klYljO3Qn+C5LTlm3XV/olKF7WvM+XPQAAAALOQBIfQNm033/L5T9r7kj9Vy3hx3uPffeo0RZdUUMqmS9hfD/PG77pBLGWyvDnZIqKMrlXl0P1YQOT/T+9V+Z8=</Value>
           </ConfigurationSetting>
         </UserPasswords>
-        <TargetServer>IE-001-W3400A62\BD3IG2016</TargetServer>
+        <TargetServer>localhost</TargetServer>
         <TargetDatabase>1617_etu28579_DB</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>

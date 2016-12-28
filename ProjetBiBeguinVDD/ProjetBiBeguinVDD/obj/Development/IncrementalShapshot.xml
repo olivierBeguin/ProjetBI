@@ -1,8 +1,8 @@
 ﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
   <Target>
     <Database>1617_etu28579_DB</Database>
-    <Server>IE-001-W3400A62\BD3IG2016</Server>
-    <ConnectionString>DataSource=IE-001-W3400A62\BD3IG2016;Timeout=0</ConnectionString>
+    <Server>localhost</Server>
+    <ConnectionString>DataSource=localhost;Timeout=0</ConnectionString>
   </Target>
   <Options>
     <TransactionalDeployment>false</TransactionalDeployment>
@@ -19,42 +19,42 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>FbFmkvJKRZVuBslteartflriJWQ=23-12-16 12:12:4423-12-16 10:57:23</TimeStamp>
+        <TimeStamp>FbFmkvJKRZVuBslteartflriJWQ=27-12-16 16:05:0127-12-16 16:05:01</TimeStamp>
         <ID>
           <String>1617 Etu28579 DB</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>WJ9lcTHM1OPYDTCErNDX28A37g4=23-12-16 12:13:4923-12-16 10:58:39</TimeStamp>
+        <TimeStamp>WJ9lcTHM1OPYDTCErNDX28A37g4=27-12-16 16:05:0127-12-16 16:05:01</TimeStamp>
         <ID>
           <String>1617 Etu28579 DB</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>K/Vh9WXPKvYM2In1xLI21Nv9X0A=23-12-16 12:13:4923-12-16 12:13:49</TimeStamp>
-        <ID>
-          <String>Date</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>QiT+AhSnFDTmhR8BF4cRAP90CvA=23-12-16 12:14:2923-12-16 11:02:32</TimeStamp>
+        <TimeStamp>QiT+AhSnFDTmhR8BF4cRAP90CvA=27-12-16 16:05:0127-12-16 16:05:01</TimeStamp>
         <ID>
           <String>Proprietaire</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>RZKGvrhOTVOAuKYL9E0KG2Plfl4=23-12-16 12:14:5323-12-16 12:14:44</TimeStamp>
+        <TimeStamp>RZKGvrhOTVOAuKYL9E0KG2Plfl4=27-12-16 16:05:0127-12-16 16:05:01</TimeStamp>
         <ID>
           <String>Vehicule</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>AMXWd0HEPvm1GVIDw4CLZyid6nw=28-12-16 16:48:2627-12-16 16:40:25</TimeStamp>
+        <ID>
+          <String>Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>wfW9KT9dxA+R05v/BXZUVsjt3dI=23-12-16 12:15:1723-12-16 11:03:426CY0FR2TJh5sUS2oJcva1gOfMHs=23-12-16 12:15:1723-12-16 11:03:42</TimeStamp>
+        <TimeStamp>j3oah769LodR3S0dRS43+fPlbd0=28-12-16 16:54:3228-12-16 16:18:15H0gHBRJKwb/xn6lrmUBdSkm80ZY=28-12-16 16:48:2628-12-16 16:18:15</TimeStamp>
         <ID>
           <String>1617 Etu28579 DB</String>
         </ID>
@@ -62,7 +62,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>0IHymJZikTft/pEjmbjuD0HkGzw=23-12-16 10:55:2323-12-16 10:55:22</TimeStamp>
+      <TimeStamp>0IHymJZikTft/pEjmbjuD0HkGzw=27-12-16 16:05:0127-12-16 16:05:01</TimeStamp>
       <ID>
         <String>1617_etu28579_DB</String>
       </ID>
@@ -71,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-12-23T11:25:32.333333Z</LastDeployed>
+  <LastDeployed>2016-12-28T15:54:34.45Z</LastDeployed>
 </DeploymentSnapshot>
