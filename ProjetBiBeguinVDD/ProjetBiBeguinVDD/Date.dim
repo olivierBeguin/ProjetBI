@@ -185,5 +185,28 @@
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
   </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="1df54395-bee9-4196-963f-f013a67ddca3">
+      <ID>Hierarchy</ID>
+      <Name>Calendar Date</Name>
+      <Levels>
+        <Level dwd:design-time-name="4ab9d8e0-9029-45fd-bd5a-1af7242eb2b6">
+          <ID>Annee</ID>
+          <Name>Annee</Name>
+          <SourceAttributeID>Annee</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="28436fe5-0906-4090-875b-f46b908e4701">
+          <ID>Libelle Mois</ID>
+          <Name>Libelle Mois</Name>
+          <SourceAttributeID>Libelle Mois</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="6655056c-03c6-4ca0-b9bf-f0133a7c654a">
+          <ID>Libelle Jour</ID>
+          <Name>Libelle Jour</Name>
+          <SourceAttributeID>Libelle Jour</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
   <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
 </Dimension>

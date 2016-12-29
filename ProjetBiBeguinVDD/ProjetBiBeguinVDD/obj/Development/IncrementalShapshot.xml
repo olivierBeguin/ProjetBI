@@ -47,14 +47,14 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>AMXWd0HEPvm1GVIDw4CLZyid6nw=28-12-16 16:48:2627-12-16 16:40:25</TimeStamp>
+        <TimeStamp>KpdYQyJdAT+Dd/VFcUjCPUjB4T8=29-12-16 23:03:0427-12-16 16:40:25</TimeStamp>
         <ID>
           <String>Date</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>j3oah769LodR3S0dRS43+fPlbd0=28-12-16 16:54:3228-12-16 16:18:15H0gHBRJKwb/xn6lrmUBdSkm80ZY=28-12-16 16:48:2628-12-16 16:18:15</TimeStamp>
+        <TimeStamp>S0felv/bfDXD2BbXf2kR8WUkfJo=29-12-16 23:04:3028-12-16 16:18:15H0gHBRJKwb/xn6lrmUBdSkm80ZY=28-12-16 16:48:2628-12-16 16:18:15</TimeStamp>
         <ID>
           <String>1617 Etu28579 DB</String>
         </ID>
@@ -71,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2016-12-28T15:54:34.45Z</LastDeployed>
+  <LastDeployed>2016-12-29T22:04:31.776667Z</LastDeployed>
 </DeploymentSnapshot>
